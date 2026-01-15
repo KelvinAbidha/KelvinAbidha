@@ -1,3 +1,15 @@
+<div align="center">
+
+# Hi there, I'm Kelvin! 👋
+
+I am an aspiring **Software Engineer**, currently pursuing my studies in **Computer Technology at JKUAT**.
+
+I am passionate about **data**, eager to connect with like-minded professionals, and always looking for opportunities to learn and grow. My goal is to leverage technology to drive innovations.
+*Let's connect !*
+</div>
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on Career Compass (Professional Branding Platform) and Vantage 2027 (Election Sentiment Analysis).<br><br>👯 I’m looking to collaborate on Data Engineering or Backend projects.<br><br>🤝 I’m looking for help with Backend Engineering certification.<br><br>🌱 I’m currently learning Backend Engineering in GO
 
